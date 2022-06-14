@@ -1,6 +1,3 @@
- //http://www.colabeduc.org/descricao/show/736
-
-//video;;;;https://drive.google.com/file/d/1SJ9B244Yprs8y_0Wavb38a5MDv_PmhcK/view?usp=sharing
 var tela=0
 function setup() {
   createCanvas(1366, 583);
